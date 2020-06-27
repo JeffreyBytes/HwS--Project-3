@@ -27,7 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		7388BDF824A531DF00C454C6 /* Project1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project1.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7388BDF824A531DF00C454C6 /* Project3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Project3.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7388BDFB24A531DF00C454C6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7388BDFD24A531DF00C454C6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		7388BDFF24A531DF00C454C6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -70,7 +70,7 @@
 		7388BDF924A531DF00C454C6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7388BDF824A531DF00C454C6 /* Project1.app */,
+				7388BDF824A531DF00C454C6 /* Project3.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -125,7 +125,7 @@
 			);
 			name = Project1;
 			productName = Project1;
-			productReference = 7388BDF824A531DF00C454C6 /* Project1.app */;
+			productReference = 7388BDF824A531DF00C454C6 /* Project3.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -344,7 +344,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.jeffreycarpenter.Project1;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Project3;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -362,7 +362,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.jeffreycarpenter.Project1;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Project3;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
